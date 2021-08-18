@@ -3,4 +3,4 @@
 
 
 
-![Slide2](Slide2.png)
+![Slide2](./images/Slide2.png)
