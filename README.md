@@ -1,6 +1,6 @@
 # CFG_MySQL_PROJECT
 
-## Initial project idea, database and table design, setting Primary and Foreign Key constraints to create relations between tables and keeping in mind normalisation whilst structuring the database.
+## Initial project idea, database and table design, setting Primary and Foreign Key constraints to create relations between tables and keeping in mind normalisation whilst structuring the database. :woman_technologist: :thought_balloon:
 ![Slide1](./images/Slide1.png)
 
 ## Final DB diagram with all table relations shown. Project pass requirements listed :white_check_mark:  
