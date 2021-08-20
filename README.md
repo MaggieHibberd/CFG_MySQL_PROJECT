@@ -6,10 +6,8 @@
 ## Final DB diagram with all table relations shown. Project pass requirements listed
 ![Slide2](./images/Slide2.png)
 
-## Joins connecting multiple tables :white_check_mark: 
-## Stored function that can be applied to a query :white_check_mark:
+## Joins connecting multiple tables. Stored function that can be applied to a query :white_check_mark:
 ![Slide3](./images/Slide3.png)
 
-## Example query with a subquery :white_check_mark: 
-## Stored procedure :white_check_mark:
+## Example query with a subquery. Stored procedure :white_check_mark:  
 ![Slide4](./images/Slide4.png)
